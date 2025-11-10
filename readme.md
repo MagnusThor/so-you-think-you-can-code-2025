@@ -63,13 +63,13 @@ If you prefer not to use Git or GitHub, you can **always email or contact us** (
 | **December 12** | TBA| TBA | 🚪 Unclaimed |
 | **December 13** | TBA| TBA | 🚪 Unclaimed |
 | **December 14** | TBA| TBA | 🚪 Unclaimed |
-| **December 15** | TBA| TBA | 🚪 Unclaimed |
+| **December 15** | Magnus Thor | Fractal Horizons: Creating Infinite Geometry in Lua/Roblox | 🔒 Claimed |
 | **December 16** | TBA| TBA | 🚪 Unclaimed |
 | **December 17** | TBA| TBA | 🚪 Unclaimed |
 | **December 18** | TBA| TBA | 🚪 Unclaimed |
 | **December 19** | TBA| TBA | 🚪 Unclaimed |
 | **December 20** | TBA| TBA | 🚪 Unclaimed |
-| **December 21** | TBA| TBA | 🚪 Unclaimed |
+| **December 21** | Frank Taylor | Markov Melody Machine | 🔒 Claimed |
 | **December 22** | TBA| TBA | 🚪 Unclaimed |
 | **December 23** | TBA| TBA | 🚪 Unclaimed |
 | **December 24** | TBA| TBA | 🚪 Unclaimed |
