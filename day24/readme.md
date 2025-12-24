@@ -3,7 +3,7 @@
 _From 1990s Plasma to Emergent Biomimicry._
 
 
->ATransparency: Textual refinement and code commenting were assisted by AI. All underlying logic, architecture, and original writing are by Magnus Thor, except where specific external inspirations or credits are noted within the text.
+>Transparency: Textual refinement and code commenting were assisted by AI. All underlying logic, architecture, and original writing are by Magnus Thor, except where specific external inspirations or credits are noted within the text.
 
 ## Prologue: From 1992 to the GPU
 
