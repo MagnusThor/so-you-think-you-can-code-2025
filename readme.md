@@ -75,7 +75,7 @@ If you prefer not to use Git or GitHub, you can **always email or contact us** (
 | **December 21** | Coop  | [A Generic Sequencer for JS/TS and GLSL](day21/readme.md) | 🎅 Open |
 | **December 22** | Ricky Davies | [Multi-Window Synchronization with Broadcast Channel API](day22/readme.md) | 🎅 Open  |
 | **December 23** | [Mårten 'mrange' Rånge](https://github.com/mrange/) | [Coding Like It's 1984 Again](day23/readme.md) | 🎅 Open |
-| **December 24** | Magnus Thor | Ray Marching Complex Life into a WebGPU Fragment Shader| TBA | 🔒 Claimed |
+| **December 24** | Magnus Thor | [The Architect of Constraints: Revealing Life in WGSL](day24/readme.md)| TBA | 🎅 Open |
 | **December 25** | Hakko | TBA | 🔒 Claimed |
 
 ---
