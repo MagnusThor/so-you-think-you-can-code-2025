@@ -1,4 +1,4 @@
-# Day 22: A Nest of Divergence-Free Fields
+# Day 20: A Nest of Divergence-Free Fields
 
 On creating complex, swirly noodle shapes with compute shaders in Rust and wgpu.
 
@@ -1076,8 +1076,8 @@ Armed with a suitable hash, we can now adapt [Inigo's gradient noise with deriva
 // https://iquilezles.org/articles/gradientnoise/
 fn noised( x : vec3<f32> ) -> vec4<f32>
 {
-  // grid
-  let i = vec3<u32>(floor(x));
+  // grid - note that we add i32::max to avoid rounding negative values!
+  let i = vec3<u32>(vec3<i32>(floor(x))+vec3(2147483647));
 
   let f = fract(x);
 
@@ -1239,9 +1239,9 @@ Now for the result...
 
 I adjusted the camera positioning to give it a lissajous motion that flies you in and out of the noodles. You can see it in-browser [here](https://canmom.art/noodles). The full source code is available [here](https://github.com/canmom/noodles) if you would like to compile it natively.
 
-OK, is this finished? Not exactly. I'm not sure what causes the sharp discontinuities in gradient. There are sometimes twisting artefacts, resulting from how I'm calculating the normal and bitangent.
+The first version of this effect (pictured) had some weird gradient discontinuities and artefacts, which turned out to be a result of casting negative values to unsigned integers in the noise function. Once this was corrected (by adding a vec3 of the max i32 value before casting), I got much smoother shapes!
 
-Additionally, while this performs well on native hardware and in Chrome, I have severe performance hitches in Firefox. I'm completely stumped here, no idea what's causing it and the profile has proven unenlightening. So, if anyone has insights, I could do with some help!
+While this performs well on native hardware and in Chrome, I have severe performance hitches in Firefox. I'm completely stumped here, no idea what's causing it and the profile has proven unenlightening. So, if anyone has insights, I could do with some help!
 
 Nevertheless, we can easily have a few thousand twisting noodles, and this is really only the beginning of what you can do with this kind of effect. I find it downright hypnotic.
 
