@@ -672,7 +672,7 @@ This function does **not** strictly track previous frames but demonstrates the e
 
 
 
-
+## 8.Principles of Emergent Form
 
 
 Having explored domain warping, Voronoi tessellation, space folding, and volumetric integration, we can distill the principles that govern the emergence of life-like structure in these systems:
