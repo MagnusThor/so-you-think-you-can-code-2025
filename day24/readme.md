@@ -726,7 +726,6 @@ We define the rules under which form is allowed to exist.
 Organic complexity is not constructed.  
 It is _revealed_ — through limitation, interaction, and time.
 
-
 ----
 
 Merry Christmas
