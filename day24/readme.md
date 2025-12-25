@@ -22,7 +22,7 @@ The geometry you see isn’t modeled—it _emerges_. And in many ways, that’s 
 ![xmas candy cane](xmas-candy-cane.png)
 
 >Christmas Candy Cane Effect- [run it here](  
-https://magnusthor.github.io/demolished-live-code/public/?shader=7da1befc-cf04-4631-abcd-1f597cd573d3)
+https://magnusthor.github.io/demolished-live-code/public/preview/?shader=7da1befc-cf04-4631-abcd-1f597cd573d3)
 
 ## Abstract
 
@@ -80,7 +80,7 @@ fn mainImage(invocation_id: vec2<f32>) -> vec4<f32> {
 
 ```
 **Playground:**  
-– WebGPU / WGSL demo: https://magnusthor.github.io/demolished-live-code/public/preview/?shader=8bb074f5-cbf8-41e7-877d-a72971b86976   
+– WebGPU / WGSL demo: [https://magnusthor.github.io/demolished-live-code/public/preview/?shader=8bb074f5-cbf8-41e7-877d-a72971b86976](https://magnusthor.github.io/demolished-live-code/public/preview/?shader=8bb074f5-cbf8-41e7-877d-a72971b86976) 
 
 
 ## 2. Voronoi Tessellation
@@ -130,7 +130,7 @@ fn mainImage(invocation_id: vec2<f32>) -> vec4<f32> {
 ```
 
 **Playground:**  
-– WebGPU / WGSL demo: https://magnusthor.github.io/demolished-live-code/public/preview/?shader=63f05f22-8d8c-42a5-a891-3004bf663828 
+– WebGPU / WGSL demo: [https://magnusthor.github.io/demolished-live-code/public/preview/?shader=63f05f22-8d8c-42a5-a891-3004bf663828](https://magnusthor.github.io/demolished-live-code/public/preview/?shader=63f05f22-8d8c-42a5-a891-3004bf663828) 
 
 
 ## 3. Space-Folding
@@ -198,7 +198,7 @@ fn main(@builtin(global_invocation_id) invocation_id: vec3u) {
 
 ```
 **Playground:**  
-– WebGPU / WGSL demo: https://magnusthor.github.io/demolished-live-code/public/preview/?shader=e7412b93-92fc-4a8d-8ded-be0cebac4436
+– WebGPU / WGSL demo: [https://magnusthor.github.io/demolished-live-code/public/preview/?shader=63f05f22-8d8c-42a5-a891-3004bf663828](https://magnusthor.github.io/demolished-live-code/public/preview/?shader=63f05f22-8d8c-42a5-a891-3004bf663828)
 
 
 ## 4. Apollonian Gaskets
@@ -364,7 +364,7 @@ fn main_fragment(in: VertexOutput) -> @location(0) vec4<f32> {
 ```
 
 **Playground:**  
-– WebGPU / WGSL demo: https://magnusthor.github.io/demolished-live-code/public/preview/?shader=b98abdd6-086c-4634-89f7-7316d4220637    
+– WebGPU / WGSL demo: [https://magnusthor.github.io/demolished-live-code/public/preview/?shader=b98abdd6-086c-4634-89f7-7316d4220637](https://magnusthor.github.io/demolished-live-code/public/preview/?shader=b98abdd6-086c-4634-89f7-7316d4220637)    
 
 
 
@@ -495,7 +495,7 @@ fn mainImage(fragCoord: vec2<f32>) -> vec4<f32> {
 ```
 
 **Playground:**  
-– WebGPU / WGSL demo: https://magnusthor.github.io/demolished-live-code/public/preview/?shader=b9d5f247-0d26-4b82-9911-424d7301f0cd
+– WebGPU / WGSL demo: [https://magnusthor.github.io/demolished-live-code/public/preview/?shader=b9d5f247-0d26-4b82-9911-424d7301f0cd](https://magnusthor.github.io/demolished-live-code/public/preview/?shader=b9d5f247-0d26-4b82-9911-424d7301f0cd)
 
 
 ## 6. Inorganic Substrates
@@ -705,7 +705,7 @@ As part of the _So You Think You Can Code 2025_ series, here’s a playful exper
 ![screen shot](xmas-candy-cane.png)
 
 
-– WebGPU / WGSL demo: https://magnusthor.github.io/demolished-live-code/public/preview/?shader=7da1befc-cf04-4631-abcd-1f597cd573d3
+– WebGPU / WGSL demo: [https://magnusthor.github.io/demolished-live-code/public/preview/?shader=7da1befc-cf04-4631-abcd-1f597cd573d3](https://magnusthor.github.io/demolished-live-code/public/preview/?shader=7da1befc-cf04-4631-abcd-1f597cd573d3)
 
 
 
