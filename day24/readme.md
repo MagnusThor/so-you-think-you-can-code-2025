@@ -7,10 +7,6 @@ _From 1990s Plasma to Emergent Biomimicry._
 
 ## Prologue: From 1992 to the GPU
 
-Here’s a revised version that shifts the focus away from _organic synthesis_ as the starting point and instead emphasizes your gradual evolution—from simple demoscene effects to today’s shaders—while keeping the narrative arc intact and personal:
-
-----------
-
 My journey didn’t begin with modern shaders or parallel compute—it began in the early 1990s, glowing softly on the phosphors of retro hardware. At twelve years old, I stumbled upon a copy of Benoit Mandelbrot’s _The Fractal Geometry of Nature_. It felt less like a mathematics book and more like a glimpse behind the curtain of reality itself. _(Thanks to librarian Agneta Prokèn for ordering it to the library in my hometown, Junsele.)_
 
 By 1992, while the demoscene was pushing 8-bit machines far beyond their intended limits, I was writing my first plasma effects and Sierpinski fractals—tiny experiments in complexity for Goatland by Noice on the C64. We weren’t thinking in terms of “rendering pipelines” or “shaders.” We were simply exploring what happened when you combined tight loops, lookup tables, and bit shifts in just the right way. The magic came from doing more with less.
