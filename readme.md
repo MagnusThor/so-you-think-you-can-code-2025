@@ -76,7 +76,7 @@ If you prefer not to use Git or GitHub, you can **always email or contact us** (
 | **December 22** | Ricky Davies | [Multi-Window Synchronization with Broadcast Channel API](day22/readme.md) | 🎅 Open  |
 | **December 23** | [Mårten 'mrange' Rånge](https://github.com/mrange/) | [Coding Like It's 1984 Again](day23/readme.md) | 🎅 Open |
 | **December 24** | Magnus Thor | [The Architect of Constraints: Revealing Life in WGSL](day24/readme.md)| 🎅 Open |
-| **December 25** | Hakko | TBA | 🔒 Claimed |
+| **December 25** | Hansi(Hakko) | [A Retrospective of Creative Engineering](day25/readme.md) |  🎅 Open  |
 
 ---
 
